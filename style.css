@@ -49,6 +49,9 @@ main p {
 }
 
 @media (min-width: 800px) {
+  section {
+    padding: 0 10%;
+  }
   .group {
     flex-direction: row;
   }
